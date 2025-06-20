@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mukeshkashyap.github.io/gh-profile-generator">
+  <a href="https://mukeshkashyap.github.io/github-profile-generator">
     <img alt="GitHub Profile Generator" src="./src/images/mdg.png" width="60" />
   </a>
 </p>
@@ -31,7 +31,7 @@
 <p align="center"><img src="./src/images/github-profile-generator.gif" alt="github-profile-generator gif" /></p>
 
 <p align="center">
-    <a href="https://mukeshkashyap.github.io/gh-profile-generator" target="blank">View Demo</a>
+    <a href="https://mukeshkashyap.github.io/github-profile-generator" target="blank">View Demo</a>
     ·
     <a href="https://github.com/mukeshkashyap/github-profile-generator/issues/new/choose">Report Bug</a>
     ·
@@ -56,11 +56,11 @@ This tool provides an easy way to create a GitHub profile readme with the latest
 
 ## 🚀 Demo
 
-<a href="https://mukeshkashyap.github.io/gh-profile-generator" target="blank">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fmukeshkashyap.github.io%2Fgh-profile-generator&logo=github&style=flat-square" />
+<a href="https://mukeshkashyap.github.io/github-profile-generator" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fmukeshkashyap.github.io%2Fgithub-profile-generator&logo=github&style=flat-square" />
 </a>
 
-Try the tool: [GitHub Profile Generator](https://mukeshkashyap.github.io/gh-profile-generator)
+Try the tool: [GitHub Profile Generator](https://mukeshkashyap.github.io/github-profile-generator)
 
 ## 🧐 Features
 
